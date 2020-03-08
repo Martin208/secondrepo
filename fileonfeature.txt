@@ -2,4 +2,4 @@ This is my file on feature branch
 
 Added some lines to edit this file
 
-New line from new branch
+Added line from new branch
